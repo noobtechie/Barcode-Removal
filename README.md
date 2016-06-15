@@ -3,6 +3,6 @@ Image Processing project in Python using OpenCV. It scans text images for barcod
 
 To run the code use the command
 
-python barcode.py --image <Image File Name> --Folder <Output Folder path>
+python barcode.py --image ImageFileName --Folder OutputFolderPath
 
 Note: The output folder needs to be created before hand.
